@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR2p0063/tls/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 競平王就鄭壽訊之於宗廟曰禍敗陷動於楚邦懼鬼神以為怒使先王無所歸吾何改而可鄭壽始不敢答王固猷之答如毀新都戚陵臨陽殺左尹宛少師無忌王曰不能鄭壽如不能君王與楚邦懼難鄭壽告有疾不事陳明歲王復見鄭壽鄭壽出據路以須王與之語少少王笑曰前冬言曰邦必喪我及今何若
+  hash: sha256:6576118a2ad3faa9f1e5f5bf008e415338cf304cac306d28e6047f583abcc0ae
+metadata:
+  title: 楚竹書
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0063.xml
+hash: sha256:bbddef8c7565c0f08c04a2a6207dcc90173df50ee30a5cf095f03562ad88fc60
