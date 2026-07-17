@@ -17,14 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - seq: 1
-    filename: KR2p0063_001.yaml
-    hash: sha256:bbddef8c7565c0f08c04a2a6207dcc90173df50ee30a5cf095f03562ad88fc60
+  - {seq: 1, filename: KR2p0063_001.yaml, hash: 'sha256:bbddef8c7565c0f08c04a2a6207dcc90173df50ee30a5cf095f03562ad88fc60'}
   markers:
-  - seq: 1
-    role: markers
-    filename: assets/KR2p0063_001.markers.yaml
-    hash: sha256:633b64b44dddf8c3dfde7dca5abfb20f7f1bc63d7f41b965b436f608b0552f82
+  - {seq: 1, role: markers, filename: assets/KR2p0063_001.markers.yaml, hash: 'sha256:6c8046617683896fe24a721ab0089d094d4cf2a2fe2e14dba09fe19bcdf78e04'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,6 +31,6 @@ table_of_contents:
   label: ''
   type: section
   level: 1
-hash: sha256:41c3bf143d96f02577655c22a0760b8788eee6337de09cd5d32aff6487458f65
+hash: sha256:4f61cfe579ec8b866ef79289870aad7701ecdc284f5fe9163d5b0c62bda4dbb4
 editions:
 - short: tls

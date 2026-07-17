@@ -63,6 +63,7 @@ markers:
   - {type: 'tls:seg', offset: 86, content: '', id: KR2p0063_tls_001-3a.3}
   - {type: punctuation, offset: 87, content: (, id: KR2p0063_tls_001-bkkpn31}
   - {type: punctuation, offset: 87, content: '=', id: KR2p0063_tls_001-bkkpn32}
+  - {type: voice, offset: 87, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 88, content: ), id: KR2p0063_tls_001-bkkpn33}
   - {type: punctuation, offset: 89, content: ',', id: KR2p0063_tls_001-bkkpn34}
   - {type: punctuation, offset: 94, content: ',', id: KR2p0063_tls_001-bkkpn35}
@@ -84,4 +85,4 @@ markers:
   - {type: punctuation, offset: 122, content: ”, id: KR2p0063_tls_001-bkkpn45}
   - {type: xml-element, offset: 122, content: '', id: KR2p0063_tls_001-bkkxmlele6, name: p, role: close, attrs: {source: 'SHANGBO.PINGWANGWENZHENGSHOU 6.34.3 (STRIPS 3-5) MACHENGYUAN 6: 259-261 TR. MARCO CABOARA'}}
   back: []
-hash: sha256:633b64b44dddf8c3dfde7dca5abfb20f7f1bc63d7f41b965b436f608b0552f82
+hash: sha256:6c8046617683896fe24a721ab0089d094d4cf2a2fe2e14dba09fe19bcdf78e04
